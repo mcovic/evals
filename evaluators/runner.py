@@ -29,6 +29,7 @@ from typing import Optional
 
 from .openai_evaluator import OpenAIEvaluator
 from .cerebras_evaluator import CerebrasEvaluator
+from .gemini_evaluator import GeminiEvaluator
 from .metrics import calculate_metrics, interpret_kappa
 
 
@@ -58,13 +59,15 @@ def get_evaluator(model: str):
     Get the appropriate evaluator for a model.
 
     Args:
-        model: Model ID (e.g., "gpt-5-mini-2025-08-07" or "llama3.1-8b")
+        model: Model ID (e.g., "gpt-5-mini-2025-08-07", "llama3.1-8b", "gemini-2.0-flash-lite")
 
     Returns:
-        Evaluator instance (OpenAIEvaluator or CerebrasEvaluator)
+        Evaluator instance (OpenAIEvaluator, CerebrasEvaluator, or GeminiEvaluator)
     """
     if model in CerebrasEvaluator.SUPPORTED_MODELS:
         return CerebrasEvaluator(model=model)
+    elif model in GeminiEvaluator.SUPPORTED_MODELS:
+        return GeminiEvaluator(model=model)
     else:
         return OpenAIEvaluator(model=model)
 

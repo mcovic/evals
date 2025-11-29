@@ -25,12 +25,14 @@ See:
 from .base import BaseEvaluator
 from .openai_evaluator import OpenAIEvaluator
 from .cerebras_evaluator import CerebrasEvaluator
+from .gemini_evaluator import GeminiEvaluator
 from .metrics import calculate_metrics, interpret_kappa, confidence_interval
 
 __all__ = [
     "BaseEvaluator",
     "OpenAIEvaluator",
     "CerebrasEvaluator",
+    "GeminiEvaluator",
     "calculate_metrics",
     "interpret_kappa",
     "confidence_interval",
