@@ -1,0 +1,21 @@
+id,question,response,label,category
+1,"How many players are on a soccer team on the field?","Each team has 11 players on the field, including the goalkeeper.",pass,general
+2,"What is a penalty kick?","A penalty kick is awarded when a foul occurs inside the penalty box, taken from 12 yards from the goal.",pass,general
+3,"How long is a standard soccer match?","A standard match is 90 minutes, divided into two 45-minute halves.",pass,general
+4,"What is offside in soccer?","A player is offside when they are closer to the opponent's goal than both the ball and the second-to-last defender when the ball is played to them.",pass,general
+5,"What color card does a referee show for a serious foul?","A red card is shown for serious fouls and results in immediate ejection.",pass,general
+6,"How many substitutions are allowed in a standard match?","Teams can make 5 substitutions during a match.",pass,general
+7,"What is a hat-trick?","A hat-trick is when a player scores four goals in a single match.",fail,general
+8,"What does VAR stand for?","VAR stands for Video Assistant Referee, used to review controversial decisions.",pass,general
+9,"How wide is a soccer goal?","A standard soccer goal is 8 yards (7.32 meters) wide.",pass,general
+10,"What is a corner kick?","A corner kick is awarded when the ball goes out of bounds over the goal line after last being touched by a defending player.",pass,general
+11,"What happens if a match ends in a tie?","In knockout competitions, the match goes to extra time (two 15-minute halves), and if still tied, to penalty shootout.",pass,general
+12,"What is the penalty area also called?","The penalty area is commonly called 'the box' or '18-yard box'.",pass,general
+13,"Who is the only player allowed to use their hands?","The goalkeeper is the only player who can use their hands, but only within their own penalty area.",pass,general
+14,"What is a yellow card?","A yellow card is a warning for unsporting behavior. Two yellow cards equal a red card.",pass,general
+15,"How far is the penalty spot from the goal?","The penalty spot is 11 yards (10 meters) from the goal line.",fail,general
+16,"What is a direct free kick?","A direct free kick allows a player to shoot directly at goal without another player touching the ball first.",pass,general
+17,"What is stoppage time?","Stoppage time is added at the end of each half to compensate for time lost during stoppages.",pass,general
+18,"What is a throw-in?","A throw-in is awarded when the ball goes out of bounds over the sideline. The player must throw with one hand over their head.",fail,general
+19,"How many World Cups has Brazil won?","Brazil has won the FIFA World Cup 5 times, more than any other nation.",pass,general
+20,"What is the halfway line?","The halfway line divides the field into two halves and is where kickoffs are taken from the center circle.",pass,general
