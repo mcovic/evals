@@ -1,0 +1,21 @@
+id,question,response,label,category
+1,"What is Python?","Python is a high-level, interpreted programming language known for its readability and versatility.",pass,general
+2,"How do you print text in Python?","Use the print() function, for example: print('Hello').",pass,general
+3,"How do you create a variable in Python?","Assign a value to a name, for example: x = 5.",pass,general
+4,"Which function shows the type of a variable?","You check it using typeof().",fail,general
+5,"How do you create a list in Python?","Use square brackets, for example: my_list = [1, 2, 3].",pass,general
+6,"How do you access an element from a list?","Use an index starting from 1, e.g., my_list[1].",fail,general
+7,"How do you append an item to a list?","Use the append() method, e.g., my_list.append(4).",pass,general
+8,"What is a for loop used for in Python?","A for loop repeats code exactly 10 times by default.",fail,general
+9,"How do you define a function in Python?","Use the def keyword, e.g., def add(a, b): return a + b.",pass,general
+10,"What does return do in a function?","It prints a value to the screen.",fail,general
+11,"How do you write an if statement in Python?","Use if/elif/else, for example: if x > 0: print('Positive').",pass,general
+12,"What is a string in Python?","A string is an ordered sequence of characters enclosed in quotes.",pass,general
+13,"How do you convert a number to a string?","Use the str() function, e.g., str(10).",pass,general
+14,"How do you read user input in Python?","Use the input() function, e.g., name = input('Enter your name: ').",pass,general
+15,"What is a module in Python?","A module is the same as a class.",fail,general
+16,"How do you use a function from a module?","Call it with dot notation, e.g., math.sqrt(9).",pass,general
+17,"What is a comment in Python?","A comment starts with // and is ignored by the interpreter.",fail,general
+18,"How do you create a tuple in Python?","Use parentheses, e.g., t = (1, 2, 3).",pass,general
+19,"What is the difference between a list and a tuple?","Lists are immutable while tuples are mutable.",fail,general
+20,"How do you handle exceptions in Python?","Use a try-except block to catch and handle errors.",pass,general
