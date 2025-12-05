@@ -1,21 +1,21 @@
-id,question,response,label
-1,What is a network protocol,A set of rules that defines how data is transmitted and received across a network.,pass
-2,Why are protocols important in computer networks?,They ensure devices can communicate reliably and consistently.,pass
-3,What is the OSI model?,A 7-layer framework that standardizes network communication.,pass
-4,What is the TCP/IP model?,A 4-layer practical model used for modern internet communication.,pass
-5,Difference between TCP and UDP?,TCP is connection-oriented and reliable; UDP is connectionless and faster but less reliable,pass
-6,Difference between IPv4 and IPv6?,IPv4 uses 32-bit addresses; IPv6 uses 128-bit addresses and supports far more devices.,pass
-7,What is DNS?,The protocol used for sending emails.,fail
-8,What is HTTP?,A protocol used for transferring web pages over the internet.,pass
-9,What is HTTPS?,A secure version of HTTP using TLS/SSL for encrypted communication.,pass
-10,What is FTP?,A protocol for transferring files between computers.,pass
-11,What is SMTP?,A system that translates domain names into IP addresses. ,fail
-12,What is SNMP?,A protocol for monitoring and managing network devices,pass
-13,What is ARP?,A protocol that maps IP addresses to MAC addresses.,pass
-14,What is a port number?,A logical endpoint used to identify specific services on a device.,pass
-15,What is SSL/TLS?,Cryptographic protocols for securing data transmission.,pass
-16,What is NAT?,A method that translates private IP addresses to a public one for internet access.,pass
-17,What is a VPN?," A protocol used for error reporting and diagnostics (e.g., ping).",fail
-18,What is an IP address?,A unique identifier assigned to a device on a network.,pass
-19,What is DHCP?,A protocol that automatically assigns IP addresses to devices.,pass
-20,What is ICMP?,"A secure, encrypted connection over a public network, often using protocols like IPsec or OpenVPN.",fail
+id,questions,response,label,category
+1,What is a network protocol,A set of rules that defines how data is transmitted and received across a network.,pass,networks
+2,Why are protocols important in computer networks?,They ensure devices can communicate reliably and consistently.,pass,networks
+3,What is the OSI model?,A 7-layer framework that standardizes network communication.,pass,networks
+4,What is the TCP/IP model?,A 4-layer practical model used for modern internet communication.,pass,networks
+5,Difference between TCP and UDP?,TCP is connection-oriented and reliable; UDP is connectionless and faster but less reliable,pass,networks
+6,Difference between IPv4 and IPv6?,IPv4 uses 32-bit addresses; IPv6 uses 128-bit addresses and supports far more devices.,pass,networks
+7,What is DNS?,The protocol used for sending emails.,fail,networks
+8,What is HTTP?,A protocol used for transferring web pages over the internet.,pass,networks
+9,What is HTTPS?,A secure version of HTTP using TLS/SSL for encrypted communication.,pass,networks
+10,What is FTP?,A protocol for transferring files between computers.,pass,networks
+11,What is SMTP?,A system that translates domain names into IP addresses. ,fail,networks
+12,What is SNMP?,A protocol for monitoring and managing network devices,pass,networks
+13,What is ARP?,A protocol that maps IP addresses to MAC addresses.,pass,networks
+14,What is a port number?,A logical endpoint used to identify specific services on a device.,pass,networks
+15,What is SSL/TLS?,Cryptographic protocols for securing data transmission.,pass,networks
+16,What is NAT?,A method that translates private IP addresses to a public one for internet access.,pass,networks
+17,What is a VPN?," A protocol used for error reporting and diagnostics (e.g., ping).",fail,networks
+18,What is an IP address?,A unique identifier assigned to a device on a network.,pass,networks
+19,What is DHCP?,A protocol that automatically assigns IP addresses to devices.,pass,networks
+20,What is ICMP?,"A secure, encrypted connection over a public network, often using protocols like IPsec or OpenVPN.",fail,networks
