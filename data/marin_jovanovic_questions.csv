@@ -1,0 +1,21 @@
+id,question,response,label,category
+1,Do blue whales eat krill?,"Yes, krill is their main food source.",pass,general
+2,Can octopuses change both color and texture?,"Yes, they can mimic patterns, colors, and textures.",pass,general
+3,Do dolphins sleep with both halves of their brain at the same time?,"Yes, both halves sleep together.",fail,general
+4,Is the manta ray one of the largest rays in the world?,"Yes, giant manta rays can reach up to 7 meters across.",pass,general
+5,Can starfish regenerate lost arms?,"Yes, many starfish can regrow arms over time.",pass,general
+6,Is the great white shark fully warm-blooded like mammals?,"Yes, it is completely warm-blooded.",fail,general
+7,Do male seahorses give birth?,"Yes, male seahorses carry and birth the young.",pass,general
+8,Can jellyfish naturally live forever?,"Yes, all jellyfish species can live forever.",fail,general
+9,Can electric eels generate shocks over 600 volts?,"Yes, they can produce extremely strong shocks.",pass,general
+10,Do sea turtles return to their birth beach to lay eggs?,"Yes, many species navigate back using Earth’s magnetic field.",pass,general
+11,Do giant squids have eyes the size of basketballs?,"Yes, their eyes are among the largest in the animal kingdom.",pass,general
+12,Can clownfish change their sex?,"Yes, they can change from male to female.",pass,general
+13,Is the narwhal's tusk actually a tooth?,"Yes, the tusk is a long modified tooth.",pass,general
+14,Do sharks have bones?,"No, their skeletons are made of cartilage.",pass,general
+15,Is the megalodon still alive today?,"Yes, megalodons still live in the deep ocean.",fail,general
+16,Do penguins live naturally in the Northern Hemisphere?,"Yes, penguins live in the Arctic.",fail,general
+17,Can swordfish heat their brains and eyes to hunt better?,"Yes, they can warm these organs for improved vision.",pass,general
+18,Can sea cucumbers expel their organs as a defense?,"Yes, some species eject organs to distract predators.",pass,general
+19,Are sea otters reptiles?,"Yes, they are classified as reptiles.",fail,general
+20,Do killer whales hunt only fish and never mammals?,"Yes, they only eat fish.",fail,general

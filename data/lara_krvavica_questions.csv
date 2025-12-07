@@ -1,0 +1,16 @@
+id,question,response,label,category
+1,"Koliko nula ima broj tisuću u dekadskom zapisu?","Ima dvije nule.",fail,broj1000
+2,"Objasni zašto je 1000 važan prag u računalnom pohranjivanju, unatoč tome što se često koriste vrijednosti 1024.","Jer se u praksi zaokružuje radi jednostavnosti i marketinga.",pass,broj1000
+3,"Kako se broj 1000 piše rimskim brojevima?","MMM",fail,broj1000
+4,"Zašto se broj 1000 često koristi kao simbol velikog broja u svakodnevnom govoru?","Zato što je psihološki percepiran kao prva “velika” okrugla vrijednost.",pass,broj1000
+5,"Koliko brojeva od 1 do 1000 uključivo ima barem jednu znamenku 0?","180 brojeva.",fail,broj1000
+6,"Kako se broj 1000 prikazuje u binarnom sustavu?","1111101000₂",pass,broj1000
+7,"Ako svaki korak iznosi 75 cm, koliko koraka treba za 1000 m?","Oko 1300 koraka.",fail,broj1000
+8,"Kako je nastao prefiks „kilo-“ i zašto se veže uz vrijednost 1000?","Potječe iz grčkog χίλιοι (tisuću).",pass,broj1000
+9,"Objasni zašto je broj 1000 u mnogim mitologijama simbol ogromnog vremena.","Jer su stare kulture broj 1000 smatrale najvećim postojećim brojem.",fail,broj1000
+10,"Kako se simbolika broja 1000 koristi u umjetnosti, književnosti ili glazbi?","U bajkama s “1000 dana”, i u “Tisuću i jedna noć”.",pass,broj1000
+11,"Zamislite svijet s brojevnim sustavom temeljenim na 1000. Kako bi izgledala svakodnevna matematika?","Brojevi bi bili isti kao danas, samo drugačije imenovani.",fail,broj1000
+12,"Usporedi pojavu broja 1000 u različitim sustavima mjera.","U metarskom označava tisuću, u računalnom 1024, u imperijalnom se ne koristi.",pass,broj1000
+13,"Ako se populacija udvostručuje svakih 20 godina, koliko treba da naraste s 1000 na milijun?","Oko 200 godina.",fail,broj1000
+14,"Kako je riječ „milijarda“ povezana s različitim tumačenjima brojeva većih od 1000 u Europi?","Zato što svi koriste isti sustav pa nema razlika.",fail,broj1000
+15,"Koja se mjera u metarskom sustavu temelji na faktoru 1/1000?","Milimetar.",pass,broj1000

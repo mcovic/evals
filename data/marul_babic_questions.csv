@@ -1,0 +1,21 @@
+id,question,response,label,category
+1,How many players are on a football (soccer) team on the field?,"Twelve players",fail,general_sports
+2,How many players are on a basketball team on the court?,"Only five players, plus seven on the bench.",fail,general_sports
+3,How many players are on a volleyball team on the court?,"Six players.",pass,general_sports
+4,How many innings are played in a baseball game?,"Nine innings.",pass,general_sports
+5,How long is a marathon?,"42.195 kilometers (26.2 miles).",pass,general_sports
+6,What is the main objective in football (soccer)?,"The goal is to score and avoid fouls.",fail,general_sports
+7,What is the main objective in basketball?,"To score points by shooting the ball through the hoop.",pass,general_sports
+8,How many sets are usually played in volleyball?,"Best of five sets.",pass,general_sports
+9,How long is one half in a standard football (soccer) match?,"40 minutes.",fail,general_sports
+10,How many players are on an ice hockey team on the ice?,"Six players.",pass,general_sports
+11,How many holes does a standard golf course have?,"Eighteen holes.",pass,general_sports
+12,How many periods are played in ice hockey?,"Three periods.",pass,general_sports
+13,How long is a standard basketball game?,"It is usually 48 minutes.",fail,general_sports
+14,How many points is a touchdown worth in American football?,"Six points.",pass,general_sports
+15,How many players are on a rugby union team?,"Fifteen players.",pass,general_sports
+16,How many laps are in a 400-meter track race?,"One lap.",pass,general_sports
+17,How many points is a three-pointer worth in basketball?,"Three points.",pass,general_sports
+18,How many players are on a baseball team on the field?,"Nine players.",pass,general_sports
+19,How many players are on a handball team on the court?,"Seven players.",pass,general_sports
+20,What is the objective in tennis?,"To win points, games, and sets against the opponent.",pass,general_sports

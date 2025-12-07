@@ -1,0 +1,16 @@
+id,question,response,label,category,
+1,How many percent of total water on Earth is in the oceans?,71%,fail,seas_and_oceans
+2,Does the oceans provide nearly half of Earth's oxygen?,Yes,pass,seas_and_oceans
+3,How many percent of coral reefs have been lost in the past 40 years?,50%,pass,seas_and_oceans
+4,How many percent of sea water is salt?,10%,fail,seas_and_oceans
+5,Is melting ice affecting ocean currents?,No,fail,seas_and_oceans
+6,How many percent of Earth's surface is covered by oceans?,71%,pass,seas_and_oceans
+7,What ancient Greek classical figure did the word ocean come from?,Okeanos,pass,seas_and_oceans
+8,How many oceans are there?,7,fail,seas_and_oceans
+9,How many km is the average dept of the oceans?,10,fail,seas_and_oceans
+10,What is the biggest ocean mammal?,The Blue Whale,pass,seas_and_oceans
+11,Does an animal called the Cookiecutter shark exist?,No,fail,seas_and_oceans
+12,Does a species of animal exist called the dumbo octopi?,Yes,pass,seas_and_oceans
+13,What is the micronation on the coast of Britain called?,France,fail,seas_and_oceans
+14,Which nation has the longest coastline?,Russia,fail,seas_and_oceans
+15,What are japanese divers famous for collecting pearls called?,Ama,pass,seas_and_oceans
